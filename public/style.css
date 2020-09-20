@@ -1,0 +1,21 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://www.pngkey.com/png/detail/438-4381670_sticker-375360-u1-issa-21-savage-background.png');
+  font-family: 'Bungee Shade', cursive;
+}
+img{
+  height: 200px;
+}
+h1{
+  font-family: 'Bungee Shade', cursive;
+}
+.index{
+  font-family: 'Bungee Shade', cursive;
+
+}
+.message{
+  font-size: 20px;
+  background-color: red;
+font-family: 'Bungee Inline', cursive;
+}
